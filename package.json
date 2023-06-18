@@ -2,7 +2,7 @@
   "name": "habit-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-username.github.io/repository-name",
+  "homepage": "https://rash-a.github.io/habit-tracker/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
